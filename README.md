@@ -11,7 +11,7 @@ This is a simple blog post application with a ejs file and a backend built using
 
 
 <h3>Project setup:</h3>
-<li> Clone the project using vs code terminal or command prompt: git clone <a src = "https://github.com/ssshetty11/Blog-Post.git">https://github.com/ssshetty11/Blog-Post.git</a> </li> 
+<li> Clone the project using vs code terminal or command prompt: git clone <a href = "https://github.com/ssshetty11/Blog-Post.git">https://github.com/ssshetty11/Blog-Post.git</a> </li> 
 <li> Install required npm packages: npm i</li>
 <li> Run server: nodemon server.js or node server.js</li>
 <li> Run index file in another terminal: nodemon index.js or node index.js</li>
